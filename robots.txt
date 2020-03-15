@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://liithafuhu.janazitna.sk/sitemap.xml
